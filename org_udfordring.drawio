@@ -1,14 +1,32 @@
-<mxfile host="www.draw.io" modified="2019-12-09T10:28:34.584Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0" etag="sCW0pwV4fnS8i0JqUE5g" version="12.3.8" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-09T10:30:40.579Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0" etag="RGVNcoXOLJsfHBuvSNnA" version="12.3.8" type="github" pages="1">
   <diagram id="IXref5agaDI1envroTZy" name="Page-1">
     <mxGraphModel dx="2249" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
         <mxCell id="Wnkmwy8_kZ7854Y8tCjC-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Wnkmwy8_kZ7854Y8tCjC-1" target="Wnkmwy8_kZ7854Y8tCjC-2" edge="1">
-          <mxGeometry relative="1" as="geometry"/>
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="190"/>
+              <mxPoint x="180" y="190"/>
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Wnkmwy8_kZ7854Y8tCjC-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Wnkmwy8_kZ7854Y8tCjC-1" target="Wnkmwy8_kZ7854Y8tCjC-4" edge="1">
-          <mxGeometry relative="1" as="geometry"/>
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="190"/>
+              <mxPoint x="350" y="190"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hOVymhXeUfGJp4dvNV1h-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="Wnkmwy8_kZ7854Y8tCjC-1" target="hOVymhXeUfGJp4dvNV1h-67">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="190"/>
+              <mxPoint x="600" y="190"/>
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Wnkmwy8_kZ7854Y8tCjC-1" value="Kommune" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="100" width="120" height="60" as="geometry"/>
@@ -105,7 +123,7 @@
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="Wnkmwy8_kZ7854Y8tCjC-46" value="Kommune" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1000" y="100" width="120" height="60" as="geometry"/>
+          <mxGeometry x="1340" y="90" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="Wnkmwy8_kZ7854Y8tCjC-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Wnkmwy8_kZ7854Y8tCjC-49" target="Wnkmwy8_kZ7854Y8tCjC-53" edge="1">
           <mxGeometry relative="1" as="geometry"/>
@@ -114,13 +132,13 @@
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="Wnkmwy8_kZ7854Y8tCjC-49" value="Ældre og Handikap" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="880" y="230" width="120" height="60" as="geometry"/>
+          <mxGeometry x="1220" y="220" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="Wnkmwy8_kZ7854Y8tCjC-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Wnkmwy8_kZ7854Y8tCjC-53" target="Wnkmwy8_kZ7854Y8tCjC-57" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="870" y="440"/>
-              <mxPoint x="720" y="440"/>
+              <mxPoint x="1210" y="430"/>
+              <mxPoint x="1060" y="430"/>
             </Array>
           </mxGeometry>
         </mxCell>
@@ -130,73 +148,73 @@
         <mxCell id="hOVymhXeUfGJp4dvNV1h-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="Wnkmwy8_kZ7854Y8tCjC-53" target="hOVymhXeUfGJp4dvNV1h-16">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="870" y="440"/>
-              <mxPoint x="1040" y="440"/>
+              <mxPoint x="1210" y="430"/>
+              <mxPoint x="1380" y="430"/>
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Wnkmwy8_kZ7854Y8tCjC-53" value="Plejecenter Evigglad" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="810" y="350" width="120" height="60" as="geometry"/>
+          <mxGeometry x="1150" y="340" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="Wnkmwy8_kZ7854Y8tCjC-54" value="Andre fagområder" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1050" y="230" width="120" height="60" as="geometry"/>
+          <mxGeometry x="1390" y="220" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="Wnkmwy8_kZ7854Y8tCjC-55" value="Andre afdelinger/centre" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="970" y="350" width="120" height="60" as="geometry"/>
+          <mxGeometry x="1310" y="340" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="Wnkmwy8_kZ7854Y8tCjC-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Wnkmwy8_kZ7854Y8tCjC-57" target="Wnkmwy8_kZ7854Y8tCjC-62" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="Wnkmwy8_kZ7854Y8tCjC-57" value="Genoptræning" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="660" y="460" width="120" height="60" as="geometry"/>
+          <mxGeometry x="1000" y="450" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="hOVymhXeUfGJp4dvNV1h-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Wnkmwy8_kZ7854Y8tCjC-59" target="hOVymhXeUfGJp4dvNV1h-21">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="Wnkmwy8_kZ7854Y8tCjC-59" value="Inde A dag" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="750" y="690" width="120" height="60" as="geometry"/>
+          <mxGeometry x="1090" y="680" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="Wnkmwy8_kZ7854Y8tCjC-62" value="&lt;div&gt;Leder:&lt;/div&gt;&lt;div&gt;Helga&lt;/div&gt;&lt;div&gt;Arbejdssted:&lt;/div&gt;&lt;div&gt;Rune&lt;/div&gt;&lt;div&gt;Rosa&lt;br&gt;&lt;/div&gt;&lt;div&gt;Freja&lt;/div&gt;&lt;div&gt;Bent&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="660" y="560" width="120" height="110" as="geometry"/>
+          <mxGeometry x="1000" y="550" width="120" height="110" as="geometry"/>
         </mxCell>
         <mxCell id="hOVymhXeUfGJp4dvNV1h-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Wnkmwy8_kZ7854Y8tCjC-65" target="hOVymhXeUfGJp4dvNV1h-22">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="Wnkmwy8_kZ7854Y8tCjC-65" value="Inde B dag" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="890" y="690" width="120" height="60" as="geometry"/>
+          <mxGeometry x="1230" y="680" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="hOVymhXeUfGJp4dvNV1h-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Wnkmwy8_kZ7854Y8tCjC-70" target="Wnkmwy8_kZ7854Y8tCjC-59">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="870" y="660"/>
-              <mxPoint x="810" y="660"/>
+              <mxPoint x="1210" y="650"/>
+              <mxPoint x="1150" y="650"/>
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="hOVymhXeUfGJp4dvNV1h-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Wnkmwy8_kZ7854Y8tCjC-70" target="Wnkmwy8_kZ7854Y8tCjC-65">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="870" y="660"/>
-              <mxPoint x="950" y="660"/>
+              <mxPoint x="1210" y="650"/>
+              <mxPoint x="1290" y="650"/>
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="hOVymhXeUfGJp4dvNV1h-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Wnkmwy8_kZ7854Y8tCjC-70" target="hOVymhXeUfGJp4dvNV1h-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="870" y="640"/>
-              <mxPoint x="1220" y="640"/>
+              <mxPoint x="1210" y="630"/>
+              <mxPoint x="1560" y="630"/>
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Wnkmwy8_kZ7854Y8tCjC-70" value="&lt;div&gt;Leder:&lt;/div&gt;&lt;div&gt;Thor&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="810" y="560" width="120" height="60" as="geometry"/>
+          <mxGeometry x="1150" y="550" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="hOVymhXeUfGJp4dvNV1h-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hOVymhXeUfGJp4dvNV1h-1" target="hOVymhXeUfGJp4dvNV1h-27">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="hOVymhXeUfGJp4dvNV1h-1" value="Nat" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="690" width="120" height="60" as="geometry"/>
+          <mxGeometry x="1500" y="680" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="hOVymhXeUfGJp4dvNV1h-10" value="&lt;div&gt;Leder:&lt;/div&gt;&lt;div&gt;Urd&lt;/div&gt;&lt;div&gt;Ansættelsested:&lt;/div&gt;&lt;div&gt;Balder&lt;/div&gt;&lt;div&gt;Rosa&lt;/div&gt;&lt;div&gt;Birk&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="560" width="120" height="105" as="geometry"/>
@@ -205,44 +223,44 @@
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="hOVymhXeUfGJp4dvNV1h-12" value="Ude dag" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1025" y="690" width="120" height="60" as="geometry"/>
+          <mxGeometry x="1365" y="680" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="hOVymhXeUfGJp4dvNV1h-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hOVymhXeUfGJp4dvNV1h-16" target="hOVymhXeUfGJp4dvNV1h-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1040" y="660"/>
-              <mxPoint x="1085" y="660"/>
+              <mxPoint x="1380" y="650"/>
+              <mxPoint x="1425" y="650"/>
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="hOVymhXeUfGJp4dvNV1h-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hOVymhXeUfGJp4dvNV1h-16" target="hOVymhXeUfGJp4dvNV1h-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1040" y="640"/>
-              <mxPoint x="1220" y="640"/>
+              <mxPoint x="1380" y="630"/>
+              <mxPoint x="1560" y="630"/>
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="hOVymhXeUfGJp4dvNV1h-16" value="&lt;div&gt;Leder:&lt;/div&gt;&lt;div&gt;Urd&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="980" y="560" width="120" height="60" as="geometry"/>
+          <mxGeometry x="1320" y="550" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="hOVymhXeUfGJp4dvNV1h-21" value="&lt;div&gt;Arbejdssted:&lt;/div&gt;&lt;div&gt;Svend&lt;/div&gt;&lt;div&gt;Bent&lt;/div&gt;&lt;div&gt;Rigmor&lt;/div&gt;&lt;div&gt;Birk&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="750" y="780" width="120" height="80" as="geometry"/>
+          <mxGeometry x="1090" y="770" width="120" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="hOVymhXeUfGJp4dvNV1h-22" value="&lt;div&gt;Arbejdssted:&lt;/div&gt;&lt;div&gt;Erik&lt;/div&gt;&lt;div&gt;Raghild&lt;/div&gt;&lt;div&gt;Rigmor&lt;/div&gt;&lt;div&gt;Birk&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="890" y="780" width="120" height="80" as="geometry"/>
+          <mxGeometry x="1230" y="770" width="120" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="hOVymhXeUfGJp4dvNV1h-25" value="&lt;div&gt;Arbejdssted:&lt;/div&gt;&lt;div&gt;Urd&lt;br&gt;&lt;/div&gt;&lt;div&gt;Balder&lt;/div&gt;&lt;div&gt;Rosa&lt;/div&gt;&lt;div&gt;Birk&lt;/div&gt;&lt;div&gt;Rigmor&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1025" y="780" width="120" height="90" as="geometry"/>
+          <mxGeometry x="1365" y="770" width="120" height="90" as="geometry"/>
         </mxCell>
         <mxCell id="hOVymhXeUfGJp4dvNV1h-27" value="&lt;div&gt;Arbejdssted:&lt;/div&gt;&lt;div&gt;Svend&lt;/div&gt;&lt;div&gt;Erik&lt;/div&gt;&lt;div&gt;Balder&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="780" width="120" height="90" as="geometry"/>
+          <mxGeometry x="1500" y="770" width="120" height="90" as="geometry"/>
         </mxCell>
         <mxCell id="hOVymhXeUfGJp4dvNV1h-31" value="Linje-organisation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-110" y="15" width="190" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="hOVymhXeUfGJp4dvNV1h-32" value="Cura-organisation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="660" y="30" width="190" height="30" as="geometry"/>
+          <mxGeometry x="1000" y="20" width="190" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="hOVymhXeUfGJp4dvNV1h-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hOVymhXeUfGJp4dvNV1h-35" target="hOVymhXeUfGJp4dvNV1h-38">
           <mxGeometry relative="1" as="geometry"/>
@@ -251,7 +269,7 @@
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="hOVymhXeUfGJp4dvNV1h-35" value="Kommune" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1780" y="100" width="120" height="60" as="geometry"/>
+          <mxGeometry x="2120" y="90" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="hOVymhXeUfGJp4dvNV1h-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hOVymhXeUfGJp4dvNV1h-38" target="hOVymhXeUfGJp4dvNV1h-42">
           <mxGeometry relative="1" as="geometry"/>
@@ -260,21 +278,21 @@
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="hOVymhXeUfGJp4dvNV1h-38" value="Ældre og Handikap" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1660" y="230" width="120" height="60" as="geometry"/>
+          <mxGeometry x="2000" y="220" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="hOVymhXeUfGJp4dvNV1h-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hOVymhXeUfGJp4dvNV1h-42" target="hOVymhXeUfGJp4dvNV1h-46">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1650" y="440"/>
-              <mxPoint x="1500" y="440"/>
+              <mxPoint x="1990" y="430"/>
+              <mxPoint x="1840" y="430"/>
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="hOVymhXeUfGJp4dvNV1h-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hOVymhXeUfGJp4dvNV1h-42" target="hOVymhXeUfGJp4dvNV1h-50">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1650" y="440"/>
-              <mxPoint x="1960" y="440"/>
+              <mxPoint x="1990" y="430"/>
+              <mxPoint x="2300" y="430"/>
             </Array>
           </mxGeometry>
         </mxCell>
@@ -282,46 +300,46 @@
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="hOVymhXeUfGJp4dvNV1h-42" value="Plejecenter Evigglad" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1590" y="350" width="120" height="60" as="geometry"/>
+          <mxGeometry x="1930" y="340" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="hOVymhXeUfGJp4dvNV1h-43" value="Andre fagområder" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1830" y="230" width="120" height="60" as="geometry"/>
+          <mxGeometry x="2170" y="220" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="hOVymhXeUfGJp4dvNV1h-44" value="Andre afdelinger/centre" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1750" y="350" width="120" height="60" as="geometry"/>
+          <mxGeometry x="2090" y="340" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="hOVymhXeUfGJp4dvNV1h-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hOVymhXeUfGJp4dvNV1h-46" target="hOVymhXeUfGJp4dvNV1h-51">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="hOVymhXeUfGJp4dvNV1h-46" value="Genoptræning" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1440" y="460" width="120" height="60" as="geometry"/>
+          <mxGeometry x="1780" y="450" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="hOVymhXeUfGJp4dvNV1h-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hOVymhXeUfGJp4dvNV1h-48" target="hOVymhXeUfGJp4dvNV1h-59">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="hOVymhXeUfGJp4dvNV1h-48" value="Afdeling Inde A" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1530" y="690" width="120" height="60" as="geometry"/>
+          <mxGeometry x="1870" y="680" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="hOVymhXeUfGJp4dvNV1h-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hOVymhXeUfGJp4dvNV1h-50" target="hOVymhXeUfGJp4dvNV1h-61">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="hOVymhXeUfGJp4dvNV1h-50" value="Afdeling Ude" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1900" y="460" width="120" height="60" as="geometry"/>
+          <mxGeometry x="2240" y="450" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="hOVymhXeUfGJp4dvNV1h-51" value="&lt;div&gt;Leder:&lt;/div&gt;&lt;div&gt;Helga&lt;/div&gt;&lt;div&gt;Ansættelsessted:&lt;/div&gt;&lt;div&gt;Rune&lt;/div&gt;&lt;div&gt;Freja&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1440" y="560" width="120" height="90" as="geometry"/>
+          <mxGeometry x="1780" y="550" width="120" height="90" as="geometry"/>
         </mxCell>
         <mxCell id="hOVymhXeUfGJp4dvNV1h-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hOVymhXeUfGJp4dvNV1h-53" target="hOVymhXeUfGJp4dvNV1h-60">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="hOVymhXeUfGJp4dvNV1h-53" value="Afdeling Inde B" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1670" y="690" width="120" height="60" as="geometry"/>
+          <mxGeometry x="2010" y="680" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="hOVymhXeUfGJp4dvNV1h-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hOVymhXeUfGJp4dvNV1h-55" target="hOVymhXeUfGJp4dvNV1h-58">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="hOVymhXeUfGJp4dvNV1h-55" value="Afdeling Inde" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1590" y="460" width="120" height="60" as="geometry"/>
+          <mxGeometry x="1930" y="450" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="hOVymhXeUfGJp4dvNV1h-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hOVymhXeUfGJp4dvNV1h-58" target="hOVymhXeUfGJp4dvNV1h-48">
           <mxGeometry relative="1" as="geometry"/>
@@ -330,16 +348,34 @@
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="hOVymhXeUfGJp4dvNV1h-58" value="&lt;div&gt;Leder:&lt;/div&gt;&lt;div&gt;Thor&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1590" y="560" width="120" height="60" as="geometry"/>
+          <mxGeometry x="1930" y="550" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="hOVymhXeUfGJp4dvNV1h-59" value="&lt;div&gt;Ansættelsessted:&lt;/div&gt;&lt;div&gt;Svend&lt;/div&gt;&lt;div&gt;Bent&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1530" y="790" width="120" height="60" as="geometry"/>
+          <mxGeometry x="1870" y="780" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="hOVymhXeUfGJp4dvNV1h-60" value="&lt;div&gt;Ansætteslessted:&lt;/div&gt;&lt;div&gt;Erik&lt;/div&gt;&lt;div&gt;Raghild&lt;/div&gt;&lt;div&gt;Rigmor&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1670" y="790" width="120" height="60" as="geometry"/>
+          <mxGeometry x="2010" y="780" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="hOVymhXeUfGJp4dvNV1h-61" value="&lt;div&gt;Leder:&lt;/div&gt;&lt;div&gt;Urd&lt;/div&gt;&lt;div&gt;Ansættelsested:&lt;/div&gt;&lt;div&gt;Balder&lt;/div&gt;&lt;div&gt;Rosa&lt;/div&gt;&lt;div&gt;Birk&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1900" y="560" width="120" height="105" as="geometry"/>
+          <mxGeometry x="2240" y="550" width="120" height="105" as="geometry"/>
+        </mxCell>
+        <mxCell id="hOVymhXeUfGJp4dvNV1h-66" value="Vagt-organisation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1805" y="20" width="180" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="hOVymhXeUfGJp4dvNV1h-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="hOVymhXeUfGJp4dvNV1h-67" target="hOVymhXeUfGJp4dvNV1h-69">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="hOVymhXeUfGJp4dvNV1h-67" value="&lt;font style=&quot;font-size: 12px&quot;&gt;IT og digitalisering&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="540" y="230" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="hOVymhXeUfGJp4dvNV1h-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="hOVymhXeUfGJp4dvNV1h-69" target="hOVymhXeUfGJp4dvNV1h-71">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="hOVymhXeUfGJp4dvNV1h-69" value="&lt;div&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Leder:&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Anders&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="540" y="320" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="hOVymhXeUfGJp4dvNV1h-71" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Vagt&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="540" y="410" width="120" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
